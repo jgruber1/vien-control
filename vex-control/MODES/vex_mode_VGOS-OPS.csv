@@ -1,0 +1,20 @@
+station,	$MODE,		$FREQ,			$BBC,		$IF,		$TRACKS,	$PHASE_CAL_DETECT
+K2,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIFC,		Standard
+Mg,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIFC,		Standard
+Gs,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIFC,		Standard
+Wf,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIFC,		Standard
+Nn,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_10MHz,	VDIF,		Standard
+Oe,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIF,		Standard
+Ow,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIF,		Standard
+Ww,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIF,		Standard
+Ws,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIF,		Standard
+Wn,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIF,		Standard
+Hv,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_10MHz,	VDIF,		Standard
+Yj,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIFC,		Standard
+Sa,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_10MHz,	VDIF,		Standard
+Is,		VGOS_std,	VGOS_std,		VGOS_std,	VGOS_5MHz,	VDIF,		Standard
+Mv,             VGOS_std,	VGOS_std,               VGOS_std,	VGOS_10MHz,	VDIF,           Standard
+Hb,		VGOS_std,	VGOS_reverse,		VGOS_std,	VGOS_10MHz,	VDIF,		Standard	
+Ke,		VGOS_std,	VGOS_reverse,		VGOS_std,	VGOS_10MHz,	VDIF,		Standard
+Mb,             VGOS_std,	VGOS_std,               VGOS_std,	VGOS_5MHz,	VDIF,           Standard
+

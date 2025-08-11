@@ -1,0 +1,3 @@
+	def VDIF;
+		track_frame_format = VDIF/8032/2;
+	enddef;
