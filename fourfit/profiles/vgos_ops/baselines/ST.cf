@@ -1,0 +1,17 @@
+*==========================================================
+* baseline ST
+* Extracted from vo6147.cf for VIN / vien-control
+*==========================================================
+
+if baseline ST
+   ion_npts 1
+   ion_win  0.0 0.0
+
+if baseline ST and station S
+   ionosphere 0.0
+
+if baseline ST and station T
+   ionosphere 0.0
+
+if baseline ST
+freqs a d e f j k l m n o p q r s t u v x y z A B C D E F

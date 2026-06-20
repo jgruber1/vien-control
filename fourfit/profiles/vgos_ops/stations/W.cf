@@ -1,0 +1,13 @@
+*==========================================================
+* VIN fourfit station fragment
+* Source: vo6147.cf uploaded in ChatGPT session
+* Purpose: external editable station database fragment for vien-control
+*==========================================================
+
+* station W
+*==========================================================
+
+* original condition suffix: **ok
+if station W
+  sampler_delay_x  80 75 65 55
+  sampler_delay_y  80 65 60 50

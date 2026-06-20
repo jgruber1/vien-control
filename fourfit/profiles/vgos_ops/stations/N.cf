@@ -1,0 +1,23 @@
+*==========================================================
+* VIN fourfit station fragment
+* Source: vo6147.cf uploaded in ChatGPT session
+* Purpose: external editable station database fragment for vien-control
+*==========================================================
+
+* station N
+*==========================================================
+
+* original condition suffix: **ok
+if station N
+  sampler_delay_x -30 -40 -55 -65
+  sampler_delay_y -45 -50 -60 -70
+
+if station N
+  pc_phases_x abcdefghijklmnopqrstuvwxyzABCDEF  -16.4  28.4  -14.5  -10.8  3.2  5.8  18.3  28.1  -13.8  -7.6  -6.3  -8.0  -4.5  -16.9  -12.0  -3.4  31.5  28.8  18.8  10.9  -0.3  -7.9  -6.4  -9.6  -38.4  -43.8  -22.8  -1.1  19.6  16.0  22.1  28.5
+  pc_phases_y abcdefghijklmnopqrstuvwxyzABCDEF  -2.1  -5.3  -17.1  -1.4  4.2  10.2  -15.0  26.5  4.4  -6.3  -8.3  -6.4  -9.5  -4.2  -9.7  -8.8  24.8  17.8  18.0  9.1  1.1  -4.1  -5.4  -8.2  -32.1  -39.3  -16.0  2.8  7.8  13.9  16.6  32.7
+
+if station N
+  pc_delay_x  0.0
+  pc_delay_y -0.093 * (ns) estimated error is +/- 0.003
+  pc_phase_offset_x  0.0
+  pc_phase_offset_y 172.5 * (deg) estimated error is +/- 4.5

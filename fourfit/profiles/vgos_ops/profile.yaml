@@ -1,0 +1,25 @@
+profile_id: vgos_ops
+description: "Default fourfit control-file profile for VGOS-OPS sessions."
+
+global_file: global.cf
+
+station_files:
+  - stations/G.cf
+  - stations/H.cf
+  - stations/I.cf
+  - stations/J.cf
+  - stations/K.cf
+  - stations/M.cf
+  - stations/N.cf
+  - stations/S.cf
+  - stations/T.cf
+  - stations/A.cf
+  - stations/E.cf
+  - stations/V.cf
+  - stations/W.cf
+  - stations/P.cf
+  - stations/Y.cf
+
+baseline_files:
+  - baselines/ST.cf
+  - baselines/WV.cf

@@ -1,0 +1,19 @@
+*==========================================================
+*basic setup: VGOS-OPS
+*==========================================================
+
+dr_win -5.e-6  5.e-6
+sb_win -2.0 2.0
+
+pc_mode multitone
+pc_period 1
+ion_smooth true
+mbd_anchor sbd
+samplers 4 abcdefgh ijklmnop qrstuvwx yzABCDEF
+ref_freq 10680.4
+weak_channel 0.1
+pc_amp_hcode 0.001
+
+* general ionosphere search parameters:
+ion_npts 75
+ion_win  -100.0 100.0
