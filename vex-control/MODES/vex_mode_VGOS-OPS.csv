@@ -11,11 +11,11 @@ Ws,VGOS_std,VGOS_std,VGOS_std,VGOS_5MHz,VDIF,Standard
 Wn,VGOS_std,VGOS_std,VGOS_std,VGOS_5MHz,VDIF,Standard
 Hv,VGOS_std,VGOS_std,VGOS_std,VGOS_10MHz,VDIF,Standard
 Yj,VGOS_std,VGOS_std,VGOS_std,VGOS_5MHz,VDIFC,Standard
-Sa,VGOS_std,VGOS_std,VGOS_std,VGOS_10MHz,VDIF,Standard
+Sa,VGOS_std,VGOS_std,VGOS_std,VGOS_5MHz,VDIF,Standard
 Is,VGOS_std,VGOS_std,VGOS_std,VGOS_5MHz,VDIF,Standard
 Mv,VGOS_std,VGOS_std,VGOS_std,VGOS_10MHz,VDIF,Standard
 Hb,VGOS_std,VGOS_reverse,VGOS_std,VGOS_10MHz,VDIF,Standard
 Ke,VGOS_std,VGOS_reverse,VGOS_std,VGOS_10MHz,VDIF,Standard
 Mb,VGOS_std,VGOS_std,VGOS_std,VGOS_5MHz,VDIF,Standard
-Yg,VGOS_std,VGOS_reverse,VGOS_std,VGOS_5MHz,VDIF,Standard
+Yg,VGOS_std,VGOS_reverse,VGOS_std,VGOS_10MHz,VDIF,Standard
 
